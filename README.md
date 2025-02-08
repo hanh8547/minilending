@@ -27,7 +27,7 @@ To set up and run the MiniLending project, follow these steps:
 1.  Clone the repository:
     
     ```
-    git clone https://github.com/yourusername/minilending.git
+    git clone https://github.com/hanh8547/minilending.git
     cd minilending
     ```
     
